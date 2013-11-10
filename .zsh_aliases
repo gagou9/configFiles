@@ -1,4 +1,3 @@
-
 # Pour changer de repertoire rapidement
 alias ...='cd ../..'
 alias ....='cd ../../..'
@@ -37,6 +36,9 @@ alias lal='ls -al'
 
 #Évite les accidents
 alias rm='rm -i'
+
+# à tester :)
+alias rm='mv \!* /tmp/wastebasket'
 
 #Git stuff
 alias gis='git status'
