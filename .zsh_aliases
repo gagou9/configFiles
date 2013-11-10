@@ -39,6 +39,7 @@ alias rm='rm -i'
 
 # à tester :)
 alias rm='mv \!* /tmp/wastebasket'
+# ça marchera pas. http://zsh.sourceforge.net/Intro/intro_8.html#SEC8 
 
 #Git stuff
 alias gis='git status'
